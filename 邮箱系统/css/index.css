@@ -1,0 +1,27 @@
+/* CSS Document */
+
+
+.nav{background:#f2f2f2;height:80px;position:relative;}
+.nav img{width:200px;}
+.logo{margin-top:10px;}
+.logout{ line-height:80px;}
+.logout:hover a{ color:#03a3fc;}
+.bg img{ width:100%; position:absolute; left:200px;}
+
+
+.sidebar{font-family:"微软雅黑";color:#000; font-size:18px; background:#f2f2f2; width:200px;position:absolute;top:80px; height:1150px;
+}
+
+.sidebar li{ margin-top:30px; text-align:left; }
+
+
+.topnav img{width:20px;height:20px; margin-top:5px; float:left;margin-left:20px;}
+
+
+.topnav li:hover{background:#FFF;} 
+.topnav li:hover a{color:#03a3fc;}
+
+
+
+.footer{background:#f2f2f2;height:80px;position:relative; top:1100px;}
+.footer p{ font-size:16px; line-height:100px;}
